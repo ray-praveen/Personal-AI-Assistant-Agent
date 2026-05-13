@@ -23,12 +23,8 @@ Client: `http://localhost:5173`
 
 API: `http://localhost:5000`
 
-To enable Clerk auth, add these values to `.env` and restart:
 
-```bash
-VITE_CLERK_PUBLISHABLE_KEY=pk_test_...
-CLERK_SECRET_KEY=sk_test_...
-```
+
 
 ## Notes
 
